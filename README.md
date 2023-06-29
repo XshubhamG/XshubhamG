@@ -45,11 +45,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
----------
-
-<a href="https://git.io/streak-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-    <img src="https://streak-stats.demolab.com/?user=xshubhamg&theme=tokyonight" align="right">
-    
-</a>
-
