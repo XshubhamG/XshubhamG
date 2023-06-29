@@ -45,3 +45,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+## *Github Stats* :
+
+<a href="https://github.com/xshubhamg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xshubhamg" />
+</a>
+<a href="https://github.com/xshubhamg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xshubhamg&layout=compact&langs_count=8&card_width=320" />
+</a>
