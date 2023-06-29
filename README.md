@@ -8,6 +8,7 @@
 
 ## *About Me*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 
 ## *Language I Know* :
 
