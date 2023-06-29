@@ -47,5 +47,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-******
+---------
+
+![Metrics](https://metrics.lecoq.io/xshubhamg?template=classic&base.header=0&gists=1&lines=1&config.timezone=India)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=xshubhamg&theme=tokyonight" align="left">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=xshubhamg&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</a>
 
