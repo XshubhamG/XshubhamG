@@ -48,7 +48,8 @@
 ---------
 
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=xshubhamg&theme=tokyonight" align="right">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    <img src="https://streak-stats.demolab.com/?user=xshubhamg&theme=tokyonight" align="right">
+    
 </a>
 
