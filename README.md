@@ -42,19 +42,19 @@ const Portfolio = {
 ## _Contact me_ :
 
 <a href="https://www.instagram.com/shubhamm1215">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width='25%'>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <a href="https://twitter.com/codin_nerd">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width='25%'>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 
 <a href="https://www.github.com/xshubhamg">
-    <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white" width='25%'>
+    <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 
 <a href="shubhammgiri3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width='25%'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 ## _Github Stats_ :
