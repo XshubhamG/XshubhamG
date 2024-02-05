@@ -1,9 +1,5 @@
 # _Hello World!_
 
-<a href="#">
-    <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height='400px' width='100%'>
-</a>
-
 ## _About Me_
 
 ```ts
