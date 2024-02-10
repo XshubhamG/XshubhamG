@@ -56,8 +56,8 @@ const Portfolio = {
 ## _Github Stats_ :
 
 <a href="https://github.com/xshubhamg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xshubhamg" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=xshubhamg" />
 </a>
 <a href="https://github.com/xshubhamg/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xshubhamg&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xshubhamg&layout=compact&langs_count=8&card_width=320" />
 </a>
