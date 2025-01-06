@@ -6,9 +6,19 @@
     <img src="/banner.png" />
 </div>
 
-## 🧠 _About Me_
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-## 🪵 Technologies, I'm familier with:
+- 🏦 I'm a Currently pursing by Master's degree in Computer Application
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I'm interested in fullstack as well as system programming, currently learning golang
+- 💻 I use daily: **.js**, **.ts**, **.py**, **.c**, **.go**
+- 📖 I am currently reading **grokking's Algorithm** by _Aditya Y. Bhargava_
+- 💬 Talk to me about cricket, anime or fictional books
+- 👯 We can connect to play some games of Chess ♟ <a href="https://www.chess.com/member/nerd_shubh">nerd_shubh</a>
+
+<br/>
+
+## 🪵 Technologies, I'm work with:
 
 <br />
 
