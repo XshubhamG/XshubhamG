@@ -15,8 +15,27 @@
 - 📖 I am currently reading **grokking's Algorithm** by _Aditya Y. Bhargava_
 - 💬 Talk to me about cricket, anime or fictional books
 - 👯 We can connect to play some games of Chess ♟ <a href="https://www.chess.com/member/nerd_shubh">nerd_shubh</a>
+- 🌱 You can find me here:
+
+<p align="center" style="display: flex; gap: 10px;">
+  <a href="https://instagram.com/shubhamm1215">
+    <img src="https://img.shields.io/badge/shubhamm1215-%23DDB6F2.svg?style=for-the-badge&color=DDB6F2&label=instagram&labelColor=363a4f&logo=Instagram&logoColor=cad3f5">
+  </a>
+  <a href="https://x.com/codin_nerd">
+    <img src="https://img.shields.io/badge/codin_nerd-%23B4BEFE.svg?style=for-the-badge&color=B4BEFE&label=x.com&labelColor=363a4f&logo=x&logoColor=cad3f5">
+  </a>
+  <a href="https://github.com/xshubhamg">
+    <img src="https://img.shields.io/badge/xshubhamg-%2312100E.svg?style=for-the-badge&color=A6E3A1&label=github&labelColor=363a4f&logo=GitHub&logoColor=cad3f5">
+  </a>
+    <a href="mailto:shubhammgiri3@gmail.com">
+    <img src="https://img.shields.io/badge/shubham-%23EA4335.svg?style=for-the-badge&color=FAB387&label=gmail&labelColor=363a4f&logo=Gmail&logoColor=cad3f5">
+    </a>
+</p>
 
 <br/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png"/>
+</p>
 
 ## 🪵 Technologies, I'm work with:
 
