@@ -1,21 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Giri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=f38ba8&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Giri!;" />
 </h1>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+    <img src="/banner.png" />
+</div>
 
-## _About Me_
+## 🧠 _About Me_
 
-```ts
-const Portfolio = {
-  name: "Shubham Giri",
-  nickName: "Codin nerd",
-  email: ["codin.nerd@gmail.com", "shubhammgiri3@gmail.com"],
-  About_Me: "I am web developer, who loves to code and learn new Technology",
-};
-```
-
-## _Language I Know_ :
+## 👾 _Language I Know_ :
 
 <br />
 
@@ -25,7 +18,7 @@ const Portfolio = {
     </a>
 </div>
 
-## _Technology I use_ :
+## 🪵 _Technology I use_ :
 
 <br />
 
@@ -35,27 +28,7 @@ const Portfolio = {
     </a>
 </div>
 
-## _Contact me_ :
-
-<br />
-
-<a href="https://www.instagram.com/shubhamm1215">
-    <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-
-<a href="https://x.com/codin_nerd">
-    <img src="https://skillicons.dev/icons?i=twitter">
-</a>
-
-<a href="https://www.github.com/xshubhamg">
-    <img src="https://skillicons.dev/icons?i=github">
-</a>
-
-<a href="shubhammgiri3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail">
-</a>
-
-## _Github Stats_ :
+## 📜 _Github Stats_ :
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=rose_pine)
 ![repo-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=rose_pine)
