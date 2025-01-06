@@ -2,6 +2,8 @@
 
 ## _About Me_
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ```ts
 const Portfolio = {
   name: "Shubham Giri",
@@ -17,7 +19,7 @@ const Portfolio = {
 
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,c,python,css,go,markdown,nodejs"/>
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,c,lua,python,css,go,markdown,nodejs"/>
     </a>
 </div>
 
@@ -53,9 +55,8 @@ const Portfolio = {
 
 ## _Github Stats_ :
 
-<a href="https://github.com/xshubhamg/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=xshubhamg" />
-</a>
-<a href="https://github.com/xshubhamg/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xshubhamg&layout=compact&langs_count=8&card_width=320" />
-</a>
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xshubhamg&theme=rose_pine)
+![repo-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xshubhamg&theme=rose_pine)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xshubhamg&theme=rose_pine)
+![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xshubhamg&theme=rose_pine)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xshubhamg&theme=rose_pine&utcOffset=8)
