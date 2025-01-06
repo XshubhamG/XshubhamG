@@ -1,8 +1,12 @@
-# _Hello World!_
-
-## _About Me_
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Giri!;" />
+</h1>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+## _About Me_
 
 ```ts
 const Portfolio = {
