@@ -4,8 +4,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
-
 ## _About Me_
 
 ```ts
@@ -64,3 +62,7 @@ const Portfolio = {
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xshubhamg&theme=rose_pine)
 ![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xshubhamg&theme=rose_pine)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xshubhamg&theme=rose_pine&utcOffset=8)
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
