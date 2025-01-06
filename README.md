@@ -8,22 +8,13 @@
 
 ## 🧠 _About Me_
 
-## 👾 _Language I Know_ :
+## 🪵 Technologies, I'm familier with:
 
 <br />
 
-<div align="left">
+<div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,c,lua,python,css,go,markdown,nodejs"/>
-    </a>
-</div>
-
-## 🪵 _Technology I use_ :
-
-<br />
-
-<div align="left">
-    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,neovim,git,vscode,bash,arch,bun,vite"/>
     </a>
 </div>
