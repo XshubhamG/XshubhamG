@@ -15,36 +15,40 @@ const Portfolio = {
 
 <br />
 
-<div align="center">
+<div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,c,python,css,go,markdown"/>
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,c,python,css,go,markdown,nodejs"/>
     </a>
 </div>
 
 ## _Technology I use_ :
 
-<div align="center">
+<br />
+
+<div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,neovim,git,github,vscode,bash,arch"/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,neovim,git,vscode,bash,arch,bun,vite"/>
     </a>
 </div>
 
 ## _Contact me_ :
 
+<br />
+
 <a href="https://www.instagram.com/shubhamm1215">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram">
 </a>
 
-<a href="https://twitter.com/codin_nerd">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<a href="https://x.com/codin_nerd">
+    <img src="https://skillicons.dev/icons?i=twitter">
 </a>
 
 <a href="https://www.github.com/xshubhamg">
-    <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github">
 </a>
 
 <a href="shubhammgiri3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail">
 </a>
 
 ## _Github Stats_ :
