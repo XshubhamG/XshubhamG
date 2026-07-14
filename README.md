@@ -14,6 +14,7 @@ Self-taught full-stack developer focused on building scalable and real-time web 
 
 ## Programming Books I'm reading
 
+- [Eloquent JavaScript](https://eloquentjavascript.net/) by ___Marijn Haverbeke___
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) by ___Kyle Simpson___
 - [Every_Layout](https://every-layout.dev/) by ___Hayedon Pickering & Andy Bell___
 - [Let us C](https://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) by ___Yashwant Kanetkar___
